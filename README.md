@@ -1,2 +1,2 @@
 # churn
-<iframe src="https://github.com/nipun-thejan/churn/blob/master/telco_churn_reports.pdf"></iframe>
+<iframe src="/master/telco_churn_reports.pdf"></iframe>
